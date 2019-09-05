@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Bigelow+Rules&display=swap');
+
+.display-container {
+  height: 75vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  h4 {
+    font-family: "Bigelow Rules";
+    font-size: 150px;
+    filter: drop-shadow(13px -12px 4px #4444dd);
+    width: 20px;
+  }
+}
