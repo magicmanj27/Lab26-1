@@ -6,10 +6,7 @@ Created with CodeSandbox
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [codesandbox.io](https://codesandbox.io/s/starter-code-18sl1) (when applicable)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
